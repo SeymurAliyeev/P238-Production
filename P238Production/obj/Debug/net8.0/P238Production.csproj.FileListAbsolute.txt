@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.AssemblyInfo.cs
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\P238Production\P238Production\bin\Debug\net8.0\P238Production.exe
+C:\Users\user\Desktop\P238Production\P238Production\bin\Debug\net8.0\P238Production.deps.json
+C:\Users\user\Desktop\P238Production\P238Production\bin\Debug\net8.0\P238Production.runtimeconfig.json
+C:\Users\user\Desktop\P238Production\P238Production\bin\Debug\net8.0\P238Production.dll
+C:\Users\user\Desktop\P238Production\P238Production\bin\Debug\net8.0\P238Production.pdb
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.dll
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\refint\P238Production.dll
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.pdb
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\P238Production.genruntimeconfig.cache
+C:\Users\user\Desktop\P238Production\P238Production\obj\Debug\net8.0\ref\P238Production.dll

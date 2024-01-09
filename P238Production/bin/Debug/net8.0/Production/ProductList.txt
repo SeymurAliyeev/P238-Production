@@ -1,0 +1,3 @@
+Name: Iphone 15 Pro Max;  Price:3500;
+Name: konkjn;  Price:6226;
+Name: Samsung;  Price:1000;
